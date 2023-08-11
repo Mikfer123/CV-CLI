@@ -1,0 +1,17 @@
+<h1>{{firstName}} {{lastName}}</h1>
+<p>Email: {{email}}</p>
+
+<h2>About Me</h2>
+<p>{{about}}</p>
+
+<h2>Education</h2>
+<p>{{education}}</p>
+
+<h2>Skills</h2>
+<ul>
+  {{#each skills}}
+    <li>{{name}} - {{rating}}</li>
+  {{/each}}
+</ul>
+
+<img src="{{image}}" alt="Your Image">

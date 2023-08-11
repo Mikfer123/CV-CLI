@@ -1,0 +1,7 @@
+!. ogarnąć readline w async
+!!.dowiedzieć sie co sie dzieje cv template podczas generateCv
+
+
+1. sprawić żeby add-template działało
+2. ogarnąć używanie handlebars
+3. połączyć add-personal z cv
