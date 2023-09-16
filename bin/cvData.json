@@ -1,0 +1,25 @@
+{
+  "template": "handlebars",
+  "personalData": {
+    "name": "Mikołaj",
+    "surname": "Ferek",
+    "email": "ferek.mikolaj@gamil.com"
+  },
+  "img": "https://static.vecteezy.com/system/resources/thumbnails/002/775/156/small/unknown-person-icon-vector.jpg",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nVestibulum tincidunt, ex non suscipit mollis, tellus tortor tincidunt enim, aliquet ultrices erat nunc eget metus. \r\nPellentesque imperdiet ipsum sed malesuada commodo. Donec feugiat finibus luctus. Fusce elementum odio in enim condimentum malesuada. \r\nInteger nisl sem, semper nec justo quis, sollicitudin porta enim. \r\nPraesent eget purus viverra, finibus metus sit amet, blandit ex.\r\nEtiam iaculis fermentum finibus. Nullam elementum dui leo, vitae rhoncus dui volutpat vel.",
+  "education": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nVestibulum tincidunt, ex non suscipit mollis, tellus tortor tincidunt enim, aliquet ultrices erat nunc eget metus. \r\nPellentesque imperdiet ipsum sed malesuada commodo. Donec feugiat finibus luctus. Fusce elementum odio in enim condimentum malesuada. \r\nInteger nisl sem, semper nec justo quis, sollicitudin porta enim. \r\nPraesent eget purus viverra, finibus metus sit amet, blandit ex.\r\nEtiam iaculis fermentum finibus. Nullam elementum dui leo, vitae rhoncus dui volutpat vel.",
+  "skills": [
+    {
+      "skill": "js",
+      "rating": 5
+    },
+    {
+      "skill": "python",
+      "rating": 4
+    },
+    {
+      "skill": "react",
+      "rating": 3
+    }
+  ]
+}

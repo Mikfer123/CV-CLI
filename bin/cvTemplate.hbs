@@ -1,5 +1,7 @@
-<h1>{{firstName}} {{lastName}}</h1>
-<p>Email: {{email}}</p>
+<img src="{{img}}" alt="img">
+
+<h1>{{personalData.name}} {{personalData.surname}}</h1>
+<p>Email: {{personalData.email}}</p>
 
 <h2>About Me</h2>
 <p>{{about}}</p>
@@ -10,8 +12,8 @@
 <h2>Skills</h2>
 <ul>
   {{#each skills}}
-    <li>{{name}} - {{rating}}</li>
+    <li>{{this.skill}} - {{this.rating}}</li>
   {{/each}}
 </ul>
 
-<img src="{{image}}" alt="Your Image">
+
