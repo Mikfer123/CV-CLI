@@ -1,4 +1,4 @@
-CV-CLI - Console Application for Creating CVs
+# CV-CLI - Console Application for Creating CVs
 This console application, CV-CLI, is designed to assist in creating a CV using various commands. Here is a breakdown of its functionalities:
 Commands:
     • define-template: Allows specifying a template file for the CV.
