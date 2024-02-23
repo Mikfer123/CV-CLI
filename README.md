@@ -12,7 +12,7 @@ Commands:
     add-skills: Adds descriptions of your skills. Accepts command-line arguments along with their rating from 1 to 5. The rating is used to generate filled or empty stars.
     add-image: Adds an image specified by the given URL to the CV.
     clear: Deletes all saved data.
-    send: Allows sending messages from your LinkedIn account to recruiters. Accepts a list of emails as an argument.
+    send: Allows sending messages from your email address to recruiters. Accepts a list of emails as an argument.
 
 ## Challenges Faced
 
