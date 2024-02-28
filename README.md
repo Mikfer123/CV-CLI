@@ -19,7 +19,7 @@ Commands:
 The major challenge encountered during the development of this CLI application was handling asynchronous file operations and ensuring proper data handling between various commands. Managing read and write operations on JSON files, handling different data structures and ensuring smooth interactions between the various commands posed challenges during the development phase.
 ## Lessons Learned
 
-1. Asynchronous Operations: Dealing with asynchronous file operations in Node.js was a significant learning point. Understanding callbacks, promises, and async/await techniques for reading and writing files was crucial.
+1. Asynchronous Operations: Dealing with asynchronous file operations in Node.js was a significant learning point. Understanding callbacks, promises and async/await techniques for reading and writing files was crucial.
 
 2. Error Handling: Enhancing error handling and managing exceptions, especially in file operations, was essential for maintaining the stability of the application.
 
